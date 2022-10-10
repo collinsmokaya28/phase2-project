@@ -3,7 +3,8 @@ import Tours from "./Tours"
 import Loading from "./Loading";
 
 
-const url = 'http://localhost:3000/tours'
+//const url = 'http://localhost:3000/tours'
+const url = 'https://calm-mountain-00980.herokuapp.com/tours'
 
 const TourList = ()=> {
 
