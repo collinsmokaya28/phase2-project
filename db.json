@@ -1,0 +1,53 @@
+{
+ "tours":[
+    {
+        "id": 1,
+          "city": "new york",
+          "img": "https://cdn.pixabay.com/photo/2016/11/02/10/04/brooklyn-bridge-1791001_960_720.jpg",
+          "name": "New York Tour",
+          "activity":
+            "Walk across the Brooklyn Bridge!"
+        },
+        {
+          "id": 2,
+          "city": "paris",
+          "img": "https://cdn.pariscityvision.com/library/image/5258.jpg",
+          "name": "Paris Tour",
+          "activity":
+            "Enjoy a Romantic Dinner on the Seine River!"
+        },
+        {
+          "id": 3,
+          "city": "mombasa",
+          "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/07/9c/c2/mombasa-tusks.jpg?w=800&h=-1&s=1",
+          "name": "Mombasa Tour",
+          "activity":
+            "A view of the Mombasa Tusks!"
+        },
+        {
+          "id": 4,
+          "city": "zanzibar",
+          "img": "https://cdn.getyourguide.com/img/tour/5ded4a70afe41.jpeg/98.jpg",
+          "name": "Zanzibar Tour",
+          "activity":
+            "Kuza cave tour!"
+        },
+        {
+          "id": 5,
+          "city": "johannesburg",
+          "img": "https://www.travelstart.co.za/blog/wp-content/uploads/2016/01/Orlando-Towers.jpg",
+          "name": "Johannesburg Tour",
+          "activity":
+            "Get your adrenaline fix at the Orlando Towers!"
+        },
+        {
+          "id": 6,
+          "city": "kigali",
+          "img": "https://www.silverbackgorillatours.com/wp-content/uploads/2019/04/Kigali-Genocide-Memorial-500x334.jpg",
+          "name": "Kigali Tour",
+          "activity":
+            "Visiting the Kigali Genocide Memorial!"
+        }
+    ]
+
+}
